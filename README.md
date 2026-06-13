@@ -1,9 +1,10 @@
+![Banner](screenshots/desktop.png)
+
 <h2>Desktop Preview</h2>
 
 <p align="center">
-  <img src="screenshots/desktop.png" width="32%">
-  <img src="screenshots/desktop-with-kitty.png" width="32%">
-  <img src="screenshots/settings-and-folder.png" width="32%">
+  <img src="screenshots/desktop.png" width="50%">
+  <img src="screenshots/desktop-with-kitty.png" width="50%">
 </p>
 
 
@@ -21,9 +22,6 @@ My personal Arch Linux + KDE Plasma workstation.
 
 ![Kitty](screenshots/desktop-with-kitty.png)
 
-### KDE Settings & File Manager
-
-![Settings](screenshots/settings-and-folder.png)
 
 ## Features
 
