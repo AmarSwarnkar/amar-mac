@@ -1,0 +1,5 @@
+imageglass
+java-openjfx
+java-openjfx-debug
+yay
+yay-debug

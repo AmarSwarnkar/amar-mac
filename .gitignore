@@ -1,0 +1,15 @@
+.cache/
+.local/share/Trash/
+
+*.log
+
+node_modules/
+
+.env
+
+.env.*
+
+__pycache__/
+
+*.sqlite
+*.db

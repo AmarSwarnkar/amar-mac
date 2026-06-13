@@ -1,0 +1,8 @@
+[Libinput][2][7][SynPS/2 Synaptics TouchPad]
+PointerAcceleration=1.000
+ScrollFactor=12
+ScrollMethod=2
+TapDragLock=true
+
+[Libinput][7247][2][SIGMACHIP USB Keyboard Consumer Control]
+ScrollFactor=5
