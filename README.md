@@ -1,18 +1,29 @@
+<h2>Desktop Preview</h2>
+
+<p align="center">
+  <img src="screenshots/desktop.png" width="32%">
+  <img src="screenshots/desktop-with-kitty.png" width="32%">
+  <img src="screenshots/settings-and-folder.png" width="32%">
+</p>
+
+
 # Amar Mac
 
 My personal Arch Linux + KDE Plasma workstation.
 
 ## Desktop Preview
 
-![KDE Desktop](screenshots/kde-desktop.png)
+### Main Desktop
 
-## Kitty Terminal
+![Desktop](screenshots/desktop.png)
 
-![Kitty Terminal](screenshots/kitty-terminal.png)
+### Kitty Terminal Setup
 
-## Development Workspace
+![Kitty](screenshots/desktop-with-kitty.png)
 
-![Workspace](screenshots/workspace.png)
+### KDE Settings & File Manager
+
+![Settings](screenshots/settings-and-folder.png)
 
 ## Features
 
@@ -20,9 +31,9 @@ My personal Arch Linux + KDE Plasma workstation.
 - KDE Plasma
 - Kitty Terminal
 - Zsh + Oh My Zsh
-- GitHub-backed dotfiles
-- Java Development Environment
-- Python Development Environment
+- GitHub Backup
+- Java Development
+- Python Development
 
 ## Installation
 
@@ -32,23 +43,9 @@ cd amar-mac
 ./install.sh
 ```
 
-## Package Lists
+## Included
 
-- Official Arch packages: `pkglist.txt`
-- AUR packages: `aurlist.txt`# Amar Mac
-
-My Arch Linux KDE Plasma setup.
-
-## Clone
-
-```bash
-git clone git@github.com:AmarSwarnkar/amar-mac.git
-cd amar-mac
-```
-
-## Install
-
-```bash
-chmod +x install.sh
-./install.sh
-```
+- KDE configuration
+- Kitty configuration
+- Package lists
+- Installation script
